@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>استاک هوشمند سایت‌ها - آنی</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 مانیتورینگ آنی محصولات</h1>
+            <p>برای دریافت جدیدترین داده‌ها و تحلیل تخفیف‌ها، دکمه زیر را بزنید:</p>
+            <button id="fetch-btn" onclick="fetchLiveData()">استعلام آنی داده‌ها ⚡</button>
+        </header>
+
+        <main id="loading" class="hidden">
+            <div class="spinner"></div>
+            <p>در حال اتصال به سرورها و استخراج داده‌ها...</p>
+        </main>
+
+        <section id="results-container">
+            <!-- کارت محصولات اینجا لود میشن -->
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
