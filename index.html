@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>مانیتورینگ هوشمند بازار</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+    <style>
+        body { font-family: 'Vazirmatn', sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 30px; }
+        .container { max-width: 800px; margin: auto; }
+        header { text-align: center; margin-bottom: 30px; }
+        h1 { color: #38bdf8; margin-bottom: 5px; }
+        button { background: #38bdf8; color: #0f172a; border: none; padding: 12px 24px; font-size: 16px; font-weight: bold; border-radius: 8px; cursor: pointer; transition: 0.2s; font-family: 'Vazirmatn', sans-serif; margin-top: 15px; }
+        button:hover { background: #0ea5e9; }
+        .card { background: #1e293b; padding: 20px; border-radius: 12px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-right: 4px solid #38bdf8; }
+        .card a { color: #38bdf8; text-decoration: none; display: inline-block; margin-top: 10px; font-size: 14px; }
+        .card a:hover { text-decoration: underline; }
+        .price { color: #4ade80; font-weight: bold; }
+        .fake-discount { color: #f87171; font-size: 14px; background: rgba(248, 113, 113, 0.1); padding: 5px 10px; border-radius: 6px; margin-top: 8px; display: inline-block; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 مانیتورینگ هوشمند محصولات</h1>
+            <p>داده‌های آخرین استعلام سرور (بدون خطای بلاک و CORS):</p>
+            <button onclick="loadData()">بارگذاری مجدد داده‌ها 🔄</button>
+        </header>
+
+        <section id="results-container">
+            <p style="text-align: center;">در حال بارگذاری داده‌ها...</p>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
