@@ -1,5 +1,5 @@
 async function fetchLiveData() {
-    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxKYOpznXXtMmybZhDI5M5RYZnrY_E2jwJreGeeO29bqiAjQe-KsVm39pp5WWr1INB1dg/exec'; // لینک وب اپلیکیشن گوگل اسکریپت خودت را اینجا بگذار
+    const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyU1LOfx5sMyl_p5OY4DXt6a00Tk3m2Q1yr3o815Ywna9SVCfvvkxRpOl-_I1b15octlA/exec'; // لینک وب اپلیکیشن گوگل اسکریپت خودت را اینجا بگذار
     
     const btn = document.getElementById('fetch-btn');
     const loading = document.getElementById('loading');
