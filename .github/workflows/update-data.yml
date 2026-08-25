@@ -1,0 +1,79 @@
+name: Update Product Data
+
+on:
+  workflow_dispatch: # اجازه میده هر وقت خواستی دکمه‌ی اجرای دستی رو توی گیت‌هاب بزنی تا در لحظه دیتا آپدیت بشه
+  schedule:
+    - cron: '0 */6 * * *' # هر ۶ ساعت یک‌بار به طور خودکار هم آپدیت میشه
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper script
+        run: |
+          python3 -c "
+          import requests, json, os
+          
+          url = 'https://api.digikala.com/v1/search/?sort=7'
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+          
+          try:
+              res = requests.get(url, headers=headers)
+              data = res.json()
+              productsList = []
+              
+              if 'data' in data and 'products' in data['data']:
+                  for item in data['data']['products'][:12]:
+                      title = item.get('title', '')
+                      price_obj = item.get('default_variant', {}).get('price', {})
+                      selling_price = price_obj.get('selling_price', 0)
+                      rrp_price = price_obj.get('rrp_price', 0)
+                      discount = price_obj.get('discount_percent', 0)
+                      
+                      is_fake = False
+                      if discount > 0 and rrp_price > selling_price:
+                          calc_disc = round(((rrp_price - selling_price) / rrp_price) * 100)
+                          if abs(calc_disc - discount) > 5:
+                              is_fake = True
+                              
+                      rating = item.get('rating', {})
+                      score = rating.get('rate_score', 0) if rating else 0
+                      est_sales = int((score + 1) * 15)
+                      
+                      productsList.append({
+                          'title': title,
+                          'price': selling_price,
+                          'original_price': rrp_price,
+                          'discount_percent': discount,
+                          'is_fake_discount': is_fake,
+                          'estimated_monthly_sales': est_sales,
+                          'store': 'دیجی‌کالا',
+                          'url': 'https://www.digikala.com' + item.get('url', {}).get('uri', '')
+                      })
+              
+              os.makedirs('data', exist_ok=True)
+              with open('data/products.json', 'w', encoding='utf-8') as f:
+                  json.dump(productsList, f, ensure_ascii=False, indent=4)
+              print('Data updated successfully!')
+          except Exception as e:
+              print('Error:', str(e))
+          "
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add data/products.json
+          git commit -m "Auto-update product data via GitHub Actions" || exit 0
+          git push
