@@ -27,14 +27,15 @@ async function loadData() {
             }
 
             card.innerHTML = `
-                <h3 style="color: #f8fafc; font-size: 17px; margin-top: 0; margin-bottom: 12px; line-height: 1.5; border-bottom: 1px solid #334155; padding-bottom: 8px;">📌 ${p.title}</h3>
-                <p style="margin: 4px 0;">🛒 فروشگاه: <b>${p.store}</b></p>
+                <h2 style="color: #38bdf8; font-size: 19px; margin-top: 0; margin-bottom: 12px; line-height: 1.5; border-bottom: 1px solid #334155; padding-bottom: 10px;">📦 ${p.title}</h2>
+                <p style="margin: 6px 0;">🏷️ برند: <b>${p.brand || 'متفرقه'}</b></p>
+                <p style="margin: 6px 0;">🛒 فروشگاه: <b>${p.store}</b></p>
                 ${originalPriceHtml}
-                <p style="margin: 4px 0;">💵 قیمت فعلی: <span class="price">${p.price.toLocaleString()} تومان</span></p>
-                <p style="margin: 4px 0;">🏷️ درصد تخفیف درج شده: ${p.discount_percent}%</p>
+                <p style="margin: 6px 0;">💵 قیمت فعلی: <span class="price">${p.price.toLocaleString()} تومان</span></p>
+                <p style="margin: 6px 0;">🏷️ درصد تخفیف درج شده: ${p.discount_percent}%</p>
                 ${p.is_fake_discount ? '<div class="fake-discount">⚠️ هشدار: تخفیف غیرواقعی (قیمت پایه دستکاری شده است)</div>' : ''}
-                <p style="margin-top: 8px; margin-bottom: 12px;">📦 فروش ماهانه تخمینی: ${p.estimated_monthly_sales} عدد</p>
-                <a href="${p.url}" target="_blank" style="display: inline-block; background: #0284c7; color: #fff; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 13px;">مشاهده محصول در دیجی‌کالا 🔗</a>
+                <p style="margin: 6px 0;">⭐ امتیاز کاربران: ${p.rating_score ? p.rating_score + ' از 5' : 'ثبت نشده'}</p>
+                <a href="${p.url}" target="_blank" style="display: inline-block; background: #0284c7; color: #fff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 14px; margin-top: 10px;">مشاهده محصول در دیجی‌کالا 🔗</a>
             `;
             container.appendChild(card);
         });
