@@ -1,16 +1,20 @@
 async function loadData() {
     const container = document.getElementById('results-container');
-    container.innerHTML = '<p style="text-align: center;">در حال بارگذاری...</p>';
+    container.innerHTML = '<p style="text-align: center; color: #38bdf8;">در حال دریافت داده‌ها از سرور...</p>';
 
     try {
-        // اضافه کردن timestamp برای جلوگیری از کش شدن فایل قدیمی توسط مرورگر
+        // استفاده از مسیر نسبی دقیق همراه با تایم‌استمپ برای جلوگیری از کش مرورگر
         const response = await fetch(`data/products.json?t=${new Date().getTime()}`);
-        const products = await response.json();
+        
+        if (!response.ok) {
+            throw new Error("فایل داده‌ها پیدا نشد.");
+        }
 
+        const products = await response.json();
         container.innerHTML = '';
 
-        if.length === 0 {
-            container.innerHTML = '<p style="text-align: center;">محصولی یافت نشد.</p>';
+        if (!Array.isArray(products) || products.length === 0) {
+            container.innerHTML = '<p style="text-align: center;">محصولی در لیست یافت نشد.</p>';
             return;
         }
 
@@ -30,9 +34,9 @@ async function loadData() {
         });
 
     } catch (error) {
-        container.innerHTML = '<p style="color: #f87171; text-align: center;">هنوز داده‌ای ذخیره نشده است. به تب Actions در گیت‌هاب بروید و یک‌بار دکمه Run workflow را بزنید تا دیتا استخراج شود.</p>';
+        container.innerHTML = `<p style="color: #f87171; text-align: center;">خطا در بارگذاری: ${error.message}<br>لطفاً مطمئن شوید گیت‌هاب اکشنز حداقل یک‌بار فایل دیتا را ساخته است.</p>`;
     }
 }
 
-// بارگذاری اولیه هنگام ورود به سایت
+// اجرای خودکار هنگام باز شدن صفحه
 loadData();
