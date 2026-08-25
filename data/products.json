@@ -1,9 +1,9 @@
 [
     {
         "title": "",
-        "price": 21362000,
-        "original_price": 38648000,
-        "discount_percent": 45,
+        "price": 20990000,
+        "original_price": 30000000,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "estimated_monthly_sales": 15,
         "store": "دیجی‌کالا",
@@ -21,9 +21,9 @@
     },
     {
         "title": "",
-        "price": 7819000,
-        "original_price": 11749100,
-        "discount_percent": 33,
+        "price": 11749000,
+        "original_price": 11749000,
+        "discount_percent": 0,
         "is_fake_discount": false,
         "estimated_monthly_sales": 15,
         "store": "دیجی‌کالا",
@@ -41,9 +41,9 @@
     },
     {
         "title": "",
-        "price": 71689000,
+        "price": 72629000,
         "original_price": 95000000,
-        "discount_percent": 25,
+        "discount_percent": 24,
         "is_fake_discount": false,
         "estimated_monthly_sales": 15,
         "store": "دیجی‌کالا",
