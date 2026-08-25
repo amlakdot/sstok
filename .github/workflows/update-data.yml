@@ -1,30 +1,4 @@
-name: Update Product Data
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
-
-# اضافه کردن دسترسی نوشتن به طور صریح
-permissions:
-  contents: write
-
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run scraper script
+- name: Run scraper script
         run: |
           python3 -c "
           import requests, json, os
@@ -41,8 +15,10 @@ jobs:
                   for item in data['data']['products'][:12]:
                       title = item.get('title', '')
                       price_obj = item.get('default_variant', {}).get('price', {})
-                      selling_price = price_obj.get('selling_price', 0)
-                      rrp_price = price_obj.get('rrp_price', 0)
+                      
+                      # تبدیل ریال به تومان (تقسیم بر 10)
+                      selling_price = int(price_obj.get('selling_price', 0) / 10)
+                      rrp_price = int(price_obj.get('rrp_price', 0) / 10)
                       discount = price_obj.get('discount_percent', 0)
                       
                       is_fake = False
@@ -73,11 +49,3 @@ jobs:
           except Exception as e:
               print('Error:', str(e))
           "
-
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add data/products.json
-          git commit -m "Auto-update product data via GitHub Actions" || exit 0
-          git push
