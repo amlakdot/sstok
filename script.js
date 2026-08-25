@@ -21,7 +21,6 @@ async function loadData() {
             const card = document.createElement('div');
             card.className = 'card';
             
-            // نمایش قیمت خط خورده قبلی اگر وجود داشته باشد
             let originalPriceHtml = '';
             if (p.original_price && p.original_price > p.price) {
                 originalPriceHtml = `<p style="margin: 4px 0; color: #94a3b8; font-size: 14px;">قیمت قبل: <del>${p.original_price.toLocaleString()} تومان</del></p>`;
@@ -41,7 +40,7 @@ async function loadData() {
         });
 
     } catch (error) {
-        container.innerHTML = `<p style="color: #f87171; text-align: center;">خطا در بارگذاری: ${error.message}</p>`;
+        container.innerHTML = `<p style="color: #f87171; text-align: center;">خطا در بارگذاری: ${error.message}<br>لطفاً مطمئن شوید گیت‌هاب اکشنز حداقل یک‌بار اجرا شده است.</p>`;
     }
 }
 
