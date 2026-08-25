@@ -1,9 +1,13 @@
 name: Update Product Data
 
 on:
-  workflow_dispatch: # اجازه میده هر وقت خواستی دکمه‌ی اجرای دستی رو توی گیت‌هاب بزنی تا در لحظه دیتا آپدیت بشه
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # هر ۶ ساعت یک‌بار به طور خودکار هم آپدیت میشه
+    - cron: '0 */6 * * *'
+
+# اضافه کردن دسترسی نوشتن به طور صریح
+permissions:
+  contents: write
 
 jobs:
   scrape:
