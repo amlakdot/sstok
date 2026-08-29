@@ -35,17 +35,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 8200000,
-        "original_price": 9500000,
-        "discount_percent": 14,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 160000,
         "original_price": 1386000,
         "discount_percent": 88,
@@ -53,6 +42,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9952752/قرص-اکوفاین-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 8200000,
+        "original_price": 9500000,
+        "discount_percent": 14,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
@@ -79,17 +79,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 550000,
-        "original_price": 1135200,
-        "discount_percent": 52,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 305000,
         "original_price": 712800,
         "discount_percent": 57,
@@ -97,6 +86,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 550000,
+        "original_price": 1135200,
+        "discount_percent": 52,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 265000,
+        "price": 295000,
         "original_price": 968000,
-        "discount_percent": 73,
+        "discount_percent": 70,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
