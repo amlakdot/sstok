@@ -35,6 +35,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 103900,
+        "original_price": 242000,
+        "discount_percent": 57,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7158804/قرص-ویتامین-d3-1000-واحدی-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 215000,
         "original_price": 1386000,
         "discount_percent": 84,
@@ -42,17 +53,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9952752/قرص-اکوفاین-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 8170000,
-        "original_price": 9500000,
-        "discount_percent": 14,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
@@ -68,13 +68,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 103900,
-        "original_price": 242000,
-        "discount_percent": 57,
+        "price": 8170000,
+        "original_price": 9500000,
+        "discount_percent": 14,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7158804/قرص-ویتامین-d3-1000-واحدی-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
