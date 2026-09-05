@@ -13,17 +13,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 159000,
-        "original_price": 924000,
-        "discount_percent": 83,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 160000,
         "original_price": 242000,
         "discount_percent": 34,
@@ -31,6 +20,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-7158804/قرص-ویتامین-d3-1000-واحدی-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 159000,
+        "original_price": 924000,
+        "discount_percent": 83,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -68,17 +68,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 8295000,
-        "original_price": 9500000,
-        "discount_percent": 13,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 334120,
         "original_price": 712800,
         "discount_percent": 53,
@@ -108,6 +97,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 8170000,
+        "original_price": 9500000,
+        "discount_percent": 14,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
