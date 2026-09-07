@@ -24,24 +24,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 179000,
+        "price": 160000,
         "original_price": 924000,
-        "discount_percent": 81,
+        "discount_percent": 83,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 763680,
-        "original_price": 1174910,
-        "discount_percent": 35,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     },
     {
         "title": "",
@@ -53,6 +42,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 763680,
+        "original_price": 1174910,
+        "discount_percent": 35,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     },
     {
         "title": "",
