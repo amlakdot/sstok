@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 328010,
+        "price": 375000,
         "original_price": 535100,
-        "discount_percent": 39,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,17 +79,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 360000,
-        "original_price": 712800,
-        "discount_percent": 49,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 530000,
         "original_price": 825000,
         "discount_percent": 36,
@@ -101,13 +90,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 307000,
-        "original_price": 976800,
-        "discount_percent": 69,
+        "price": 360000,
+        "original_price": 712800,
+        "discount_percent": 49,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
     },
     {
         "title": "",
@@ -119,6 +108,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 320000,
+        "original_price": 976800,
+        "discount_percent": 67,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
     },
     {
         "title": "",
