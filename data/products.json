@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 319000,
+        "price": 375000,
         "original_price": 535100,
-        "discount_percent": 40,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -57,9 +57,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 329000,
+        "price": 540000,
+        "original_price": 1135200,
+        "discount_percent": 52,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 450000,
         "original_price": 1386000,
-        "discount_percent": 76,
+        "discount_percent": 68,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -68,13 +79,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 540000,
-        "original_price": 1135200,
+        "price": 341090,
+        "original_price": 712800,
         "discount_percent": 52,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
     },
     {
         "title": "",
@@ -90,13 +101,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 336310,
-        "original_price": 712800,
-        "discount_percent": 53,
+        "price": 340000,
+        "original_price": 976800,
+        "discount_percent": 65,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
     },
     {
         "title": "",
@@ -112,20 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 340000,
-        "original_price": 976800,
-        "discount_percent": 65,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 705960,
+        "price": 650000,
         "original_price": 1188000,
-        "discount_percent": 41,
+        "discount_percent": 45,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
