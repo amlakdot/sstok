@@ -13,7 +13,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2588300,
+        "price": 2588200,
         "original_price": 3825700,
         "discount_percent": 32,
         "is_fake_discount": false,
@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 320000,
+        "price": 375000,
         "original_price": 535100,
-        "discount_percent": 40,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -57,20 +57,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 822500,
-        "original_price": 1174910,
-        "discount_percent": 30,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 325060,
+        "price": 370000,
         "original_price": 712800,
-        "discount_percent": 54,
+        "discount_percent": 48,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,13 +68,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 8600000,
-        "original_price": 9500000,
-        "discount_percent": 9,
+        "price": 721000,
+        "original_price": 1174910,
+        "discount_percent": 39,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     },
     {
         "title": "",
@@ -101,6 +90,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 8600000,
+        "original_price": 9500000,
+        "discount_percent": 9,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 199000,
         "original_price": 1386000,
         "discount_percent": 86,
@@ -112,9 +112,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 340000,
-        "original_price": 726000,
-        "discount_percent": 53,
+        "price": 370000,
+        "original_price": 976800,
+        "discount_percent": 62,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 1188000,
+        "price": 627220,
         "original_price": 1188000,
-        "discount_percent": 0,
+        "discount_percent": 47,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
