@@ -46,6 +46,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 289000,
+        "original_price": 349000,
+        "discount_percent": 17,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 579000,
         "original_price": 1135200,
         "discount_percent": 49,
@@ -68,17 +79,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 681440,
-        "original_price": 1174910,
-        "discount_percent": 42,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 535000,
         "original_price": 825000,
         "discount_percent": 35,
@@ -90,13 +90,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 7052000,
-        "original_price": 9500000,
-        "discount_percent": 26,
+        "price": 681440,
+        "original_price": 1174910,
+        "discount_percent": 42,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     },
     {
         "title": "",
@@ -112,23 +112,23 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 350000,
+        "price": 7052000,
+        "original_price": 9500000,
+        "discount_percent": 26,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 354000,
         "original_price": 976800,
         "discount_percent": 64,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 751090,
-        "original_price": 1188000,
-        "discount_percent": 37,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
     }
 ]
