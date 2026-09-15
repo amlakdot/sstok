@@ -13,9 +13,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2378600,
-        "original_price": 3698200,
-        "discount_percent": 36,
+        "price": 289000,
+        "original_price": 349000,
+        "discount_percent": 17,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 2588500,
+        "original_price": 4195400,
+        "discount_percent": 38,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -24,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 320000,
+        "price": 270000,
         "original_price": 924000,
-        "discount_percent": 65,
+        "discount_percent": 71,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,24 +46,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 370100,
+        "price": 375000,
         "original_price": 535100,
-        "discount_percent": 31,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 289000,
-        "original_price": 349000,
-        "discount_percent": 17,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
     },
     {
         "title": "",
@@ -68,13 +68,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 335000,
-        "original_price": 712800,
-        "discount_percent": 53,
+        "price": 7052000,
+        "original_price": 9500000,
+        "discount_percent": 26,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
@@ -86,6 +86,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 335000,
+        "original_price": 712800,
+        "discount_percent": 53,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
     },
     {
         "title": "",
@@ -108,17 +119,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9952752/قرص-اکوفاین-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 7052000,
-        "original_price": 9500000,
-        "discount_percent": 26,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
