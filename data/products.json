@@ -57,6 +57,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 8500000,
+        "original_price": 9500000,
+        "discount_percent": 11,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 565000,
         "original_price": 1135200,
         "discount_percent": 50,
@@ -64,17 +75,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 8600000,
-        "original_price": 9500000,
-        "discount_percent": 9,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
@@ -90,9 +90,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 320000,
+        "price": 361250,
         "original_price": 712800,
-        "discount_percent": 55,
+        "discount_percent": 49,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,9 +101,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 860100,
+        "price": 340000,
+        "original_price": 726000,
+        "discount_percent": 53,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 721000,
         "original_price": 1174910,
-        "discount_percent": 27,
+        "discount_percent": 39,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -112,23 +123,12 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 325000,
+        "price": 192870,
         "original_price": 1386000,
-        "discount_percent": 77,
+        "discount_percent": 86,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9952752/قرص-اکوفاین-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 317000,
-        "original_price": 976800,
-        "discount_percent": 68,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
     }
 ]
