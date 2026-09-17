@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 147000,
+        "price": 140000,
         "original_price": 924000,
-        "discount_percent": 84,
+        "discount_percent": 85,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -46,13 +46,35 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 385000,
+        "price": 375000,
         "original_price": 535100,
-        "discount_percent": 28,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 530000,
+        "original_price": 1135200,
+        "discount_percent": 53,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 535000,
+        "original_price": 825000,
+        "discount_percent": 35,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
     },
     {
         "title": "",
@@ -68,31 +90,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 565000,
-        "original_price": 1135200,
-        "discount_percent": 50,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 520000,
-        "original_price": 825000,
-        "discount_percent": 37,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 350000,
+        "price": 345000,
         "original_price": 712800,
-        "discount_percent": 51,
+        "discount_percent": 52,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,13 +101,24 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 350000,
+        "price": 340000,
         "original_price": 976800,
-        "discount_percent": 64,
+        "discount_percent": 65,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 660000,
+        "original_price": 1188000,
+        "discount_percent": 44,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
     },
     {
         "title": "",
@@ -119,16 +130,5 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 192870,
-        "original_price": 1386000,
-        "discount_percent": 86,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9952752/قرص-اکوفاین-یوروویتال-بسته-60-عددی"
     }
 ]
