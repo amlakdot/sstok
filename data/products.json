@@ -13,7 +13,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 283100,
+        "price": 282700,
         "original_price": 349000,
         "discount_percent": 19,
         "is_fake_discount": false,
@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 200000,
+        "price": 125000,
         "original_price": 924000,
-        "discount_percent": 78,
+        "discount_percent": 86,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,18 +79,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 8500000,
-        "original_price": 9500000,
-        "discount_percent": 11,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 330000,
+        "price": 325000,
         "original_price": 712800,
         "discount_percent": 54,
         "is_fake_discount": false,
@@ -119,6 +108,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 8500000,
+        "original_price": 9500000,
+        "discount_percent": 11,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
     },
     {
         "title": "",
