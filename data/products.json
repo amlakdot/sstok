@@ -13,9 +13,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 252000,
-        "original_price": 350000,
-        "discount_percent": 28,
+        "price": 241880,
+        "original_price": 241880,
+        "discount_percent": 0,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -25,7 +25,7 @@
         "title": "",
         "brand": "دیجی‌کالا",
         "price": 2687800,
-        "original_price": 4101000,
+        "original_price": 4100600,
         "discount_percent": 34,
         "is_fake_discount": false,
         "rating_score": 0,
@@ -57,9 +57,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 555000,
+        "price": 530000,
         "original_price": 1135200,
-        "discount_percent": 51,
+        "discount_percent": 53,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,9 +101,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 320000,
+        "price": 350000,
         "original_price": 712800,
-        "discount_percent": 55,
+        "discount_percent": 51,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -123,12 +123,12 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 8500000,
-        "original_price": 9500000,
-        "discount_percent": 11,
+        "price": 3634100,
+        "original_price": 5422400,
+        "discount_percent": 33,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-7438107/پودر-پروتئین-با-طعم-شکلات-کاله-پرو-1800-گرم"
+        "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
     }
 ]
