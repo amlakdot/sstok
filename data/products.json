@@ -24,9 +24,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2589100,
-        "original_price": 3796900,
-        "discount_percent": 32,
+        "price": 2552200,
+        "original_price": 4004500,
+        "discount_percent": 36,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,9 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 120000,
+        "price": 199000,
         "original_price": 924000,
-        "discount_percent": 87,
+        "discount_percent": 78,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -57,24 +57,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 499000,
+        "price": 580000,
         "original_price": 1135200,
-        "discount_percent": 56,
+        "discount_percent": 49,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 480000,
-        "original_price": 825000,
-        "discount_percent": 42,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
     },
     {
         "title": "",
@@ -90,24 +79,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 370000,
-        "original_price": 712800,
-        "discount_percent": 48,
+        "price": 450000,
+        "original_price": 825000,
+        "discount_percent": 45,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 352500,
-        "original_price": 976800,
-        "discount_percent": 64,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
     },
     {
         "title": "",
@@ -123,12 +101,34 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3479000,
-        "original_price": 5422400,
-        "discount_percent": 36,
+        "price": 352500,
+        "original_price": 976800,
+        "discount_percent": 64,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
+        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 370000,
+        "original_price": 712800,
+        "discount_percent": 48,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 689900,
+        "original_price": 1174910,
+        "discount_percent": 41,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     }
 ]
