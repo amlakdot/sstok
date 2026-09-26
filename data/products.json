@@ -24,13 +24,24 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2600200,
-        "original_price": 4004500,
-        "discount_percent": 35,
+        "price": 2600600,
+        "original_price": 4097300,
+        "discount_percent": 37,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 375000,
+        "original_price": 535100,
+        "discount_percent": 30,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
     },
     {
         "title": "",
@@ -46,13 +57,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 375000,
-        "original_price": 535100,
-        "discount_percent": 30,
+        "price": 532410,
+        "original_price": 825000,
+        "discount_percent": 35,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
+        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
     },
     {
         "title": "",
@@ -79,17 +90,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 474000,
-        "original_price": 825000,
-        "discount_percent": 43,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 360000,
         "original_price": 792000,
         "discount_percent": 55,
@@ -101,24 +101,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 352500,
-        "original_price": 976800,
-        "discount_percent": 64,
+        "price": 3799000,
+        "original_price": 5422400,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5188998/قرص-منیزیم-پلاس-آیزن-و-ب6-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 370000,
-        "original_price": 712800,
-        "discount_percent": 48,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+        "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
     },
     {
         "title": "",
@@ -130,5 +119,16 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 300000,
+        "original_price": 891000,
+        "discount_percent": 66,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
     }
 ]
