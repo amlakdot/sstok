@@ -2,9 +2,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 182000,
+        "price": 172000,
         "original_price": 242000,
-        "discount_percent": 25,
+        "discount_percent": 29,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -68,17 +68,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 557000,
-        "original_price": 1135200,
-        "discount_percent": 51,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 609000,
         "original_price": 1056000,
         "discount_percent": 42,
@@ -90,9 +79,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 360000,
+        "price": 557000,
+        "original_price": 1135200,
+        "discount_percent": 51,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 261360,
         "original_price": 792000,
-        "discount_percent": 55,
+        "discount_percent": 67,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,24 +101,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3525400,
-        "original_price": 5422400,
-        "discount_percent": 35,
+        "price": 3649000,
+        "original_price": 3649000,
+        "discount_percent": 0,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 704940,
-        "original_price": 1174910,
-        "discount_percent": 40,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     },
     {
         "title": "",
@@ -130,5 +119,16 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 704940,
+        "original_price": 1174910,
+        "discount_percent": 40,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5715766/فلوئید-ضدآفتاب-بیرنگ-مای-spf50-مدل-smart-defense-مناسب-انواع-پوست-حجم-50-میلیلیتر"
     }
 ]
