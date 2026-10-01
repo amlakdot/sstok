@@ -24,9 +24,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2539000,
-        "original_price": 4165900,
-        "discount_percent": 39,
+        "price": 105000,
+        "original_price": 924000,
+        "discount_percent": 89,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 2599000,
+        "original_price": 3796900,
+        "discount_percent": 32,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,24 +46,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 315000,
+        "price": 300000,
         "original_price": 451000,
-        "discount_percent": 30,
+        "discount_percent": 33,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 105000,
-        "original_price": 924000,
-        "discount_percent": 89,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -101,7 +101,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3784100,
+        "price": 3783800,
         "original_price": 5717700,
         "discount_percent": 34,
         "is_fake_discount": false,
