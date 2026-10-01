@@ -2,9 +2,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 170000,
+        "price": 150000,
         "original_price": 242000,
-        "discount_percent": 30,
+        "discount_percent": 38,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,17 +79,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 580000,
-        "original_price": 1135200,
-        "discount_percent": 49,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 300000,
         "original_price": 792000,
         "discount_percent": 62,
@@ -101,7 +90,18 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3784600,
+        "price": 580000,
+        "original_price": 1135200,
+        "discount_percent": 49,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 3784100,
         "original_price": 5717700,
         "discount_percent": 34,
         "is_fake_discount": false,
