@@ -24,24 +24,24 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 199000,
-        "original_price": 924000,
+        "price": 2609000,
+        "original_price": 4243800,
+        "discount_percent": 39,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 240000,
+        "original_price": 1108800,
         "discount_percent": 78,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 2599000,
-        "original_price": 3796900,
-        "discount_percent": 32,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
     },
     {
         "title": "",
@@ -68,9 +68,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 584490,
+        "price": 630000,
         "original_price": 1425600,
-        "discount_percent": 59,
+        "discount_percent": 56,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,9 +79,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 300000,
+        "price": 360000,
         "original_price": 792000,
-        "discount_percent": 62,
+        "discount_percent": 55,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,7 +101,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3782000,
+        "price": 3772000,
         "original_price": 5717700,
         "discount_percent": 34,
         "is_fake_discount": false,
