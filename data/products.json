@@ -46,17 +46,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 345000,
-        "original_price": 535100,
-        "discount_percent": 36,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 500000,
         "original_price": 825000,
         "discount_percent": 39,
@@ -64,6 +53,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 345000,
+        "original_price": 535100,
+        "discount_percent": 36,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
     },
     {
         "title": "",
@@ -79,9 +79,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 355000,
+        "price": 392000,
         "original_price": 792000,
-        "discount_percent": 55,
+        "discount_percent": 51,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 315000,
-        "original_price": 990000,
-        "discount_percent": 68,
+        "price": 350000,
+        "original_price": 712800,
+        "discount_percent": 51,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
