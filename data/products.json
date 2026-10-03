@@ -2,9 +2,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 167000,
-        "original_price": 330000,
-        "discount_percent": 49,
+        "price": 152460,
+        "original_price": 242000,
+        "discount_percent": 37,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -24,9 +24,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2727200,
-        "original_price": 4175000,
-        "discount_percent": 35,
+        "price": 2695100,
+        "original_price": 4545200,
+        "discount_percent": 41,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,20 +35,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 240000,
-        "original_price": 1108800,
-        "discount_percent": 78,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 500000,
+        "price": 520000,
         "original_price": 825000,
-        "discount_percent": 39,
+        "discount_percent": 37,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -68,6 +57,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 180000,
+        "original_price": 1108800,
+        "discount_percent": 84,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 650000,
         "original_price": 1188000,
         "discount_percent": 45,
@@ -79,9 +79,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 392000,
+        "price": 380000,
         "original_price": 792000,
-        "discount_percent": 51,
+        "discount_percent": 52,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,17 +101,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3820000,
-        "original_price": 3820000,
-        "discount_percent": 0,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 300000,
         "original_price": 891000,
         "discount_percent": 66,
@@ -119,6 +108,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 3843100,
+        "original_price": 5717700,
+        "discount_percent": 33,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
     },
     {
         "title": "",
