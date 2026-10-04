@@ -46,6 +46,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 99000,
+        "original_price": 924000,
+        "discount_percent": 89,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 345000,
         "original_price": 535100,
         "discount_percent": 36,
@@ -53,17 +64,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 240000,
-        "original_price": 1108800,
-        "discount_percent": 78,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -101,17 +101,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 300000,
-        "original_price": 891000,
-        "discount_percent": 66,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 3937200,
         "original_price": 5717700,
         "discount_percent": 31,
@@ -119,6 +108,17 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 300000,
+        "original_price": 891000,
+        "discount_percent": 66,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
     },
     {
         "title": "",
