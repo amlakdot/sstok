@@ -2,9 +2,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 152460,
-        "original_price": 242000,
-        "discount_percent": 37,
+        "price": 158000,
+        "original_price": 330000,
+        "discount_percent": 52,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,13 +35,24 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 489000,
-        "original_price": 990000,
-        "discount_percent": 51,
+        "price": 460000,
+        "original_price": 825000,
+        "discount_percent": 44,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 370000,
+        "original_price": 535100,
+        "discount_percent": 31,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
     },
     {
         "title": "",
@@ -57,17 +68,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 345000,
-        "original_price": 535100,
-        "discount_percent": 36,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 650000,
         "original_price": 1188000,
         "discount_percent": 45,
@@ -79,24 +79,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 341000,
+        "price": 305000,
         "original_price": 792000,
-        "discount_percent": 57,
+        "discount_percent": 61,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-13364158/کپسول-ویتامین-ای-400-واحد-یوروویتال-بسته-40-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 700000,
-        "original_price": 1430000,
-        "discount_percent": 51,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -112,6 +101,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 700000,
+        "original_price": 1430000,
+        "discount_percent": 51,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 300000,
         "original_price": 891000,
         "discount_percent": 66,
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 350000,
-        "original_price": 712800,
-        "discount_percent": 51,
+        "price": 338000,
+        "original_price": 990000,
+        "discount_percent": 66,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
