@@ -13,9 +13,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 318200,
+        "price": 541000,
+        "original_price": 990000,
+        "discount_percent": 45,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 312700,
         "original_price": 349000,
-        "discount_percent": 9,
+        "discount_percent": 10,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -35,24 +46,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2727200,
-        "original_price": 4173600,
-        "discount_percent": 35,
+        "price": 2789500,
+        "original_price": 3636500,
+        "discount_percent": 23,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 474000,
-        "original_price": 990000,
-        "discount_percent": 52,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
     },
     {
         "title": "",
@@ -90,7 +90,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3939300,
+        "price": 3942700,
         "original_price": 5717700,
         "discount_percent": 31,
         "is_fake_discount": false,
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 350000,
-        "original_price": 712800,
-        "discount_percent": 51,
+        "price": 338000,
+        "original_price": 990000,
+        "discount_percent": 66,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
