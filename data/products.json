@@ -13,9 +13,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 320000,
-        "original_price": 320000,
-        "discount_percent": 0,
+        "price": 318200,
+        "original_price": 349000,
+        "discount_percent": 9,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -24,8 +24,19 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 99000,
+        "original_price": 924000,
+        "discount_percent": 89,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 2727200,
-        "original_price": 4173700,
+        "original_price": 4173600,
         "discount_percent": 35,
         "is_fake_discount": false,
         "rating_score": 0,
@@ -35,9 +46,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 450000,
-        "original_price": 825000,
-        "discount_percent": 45,
+        "price": 474000,
+        "original_price": 990000,
+        "discount_percent": 52,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -53,17 +64,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 99000,
-        "original_price": 924000,
-        "discount_percent": 89,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -90,7 +90,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3937200,
+        "price": 3939300,
         "original_price": 5717700,
         "discount_percent": 31,
         "is_fake_discount": false,
@@ -123,9 +123,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 338000,
-        "original_price": 990000,
-        "discount_percent": 66,
+        "price": 350000,
+        "original_price": 712800,
+        "discount_percent": 51,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
