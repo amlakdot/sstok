@@ -35,20 +35,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 312700,
-        "original_price": 349000,
-        "discount_percent": 10,
+        "price": 314000,
+        "original_price": 535100,
+        "discount_percent": 41,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
+        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
     },
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2811400,
-        "original_price": 4172600,
-        "discount_percent": 33,
+        "price": 2812300,
+        "original_price": 4545200,
+        "discount_percent": 38,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -57,13 +57,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 314000,
-        "original_price": 535100,
-        "discount_percent": 41,
+        "price": 286100,
+        "original_price": 349000,
+        "discount_percent": 18,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-3516245/کپسول-مگنیفورت-هولیستیکا-بسته-32-عددی"
+        "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
     },
     {
         "title": "",
@@ -90,24 +90,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 3939900,
+        "price": 3922400,
         "original_price": 5717700,
         "discount_percent": 31,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 700000,
-        "original_price": 1430000,
-        "discount_percent": 51,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
     },
     {
         "title": "",
@@ -123,9 +112,20 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 216750,
+        "price": 700000,
+        "original_price": 1430000,
+        "discount_percent": 51,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 300000,
         "original_price": 712800,
-        "discount_percent": 70,
+        "discount_percent": 58,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
