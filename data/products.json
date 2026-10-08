@@ -35,7 +35,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 346600,
+        "price": 346280,
         "original_price": 535100,
         "discount_percent": 35,
         "is_fake_discount": false,
@@ -57,6 +57,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 616500,
+        "original_price": 1425600,
+        "discount_percent": 57,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 249000,
         "original_price": 249000,
         "discount_percent": 0,
@@ -64,17 +75,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-82098/شامپو-تقویتکننده-ضد-ریزش-مو-فولیکا-مخصوص-موهای-نازک-و-آسیبدیده-حجم-200-میلیلیتر-حاوی-ویتامینهای-b7-و-b6-کافئین-و-زینک-سولفات-افزایش-جریان-خون-مویرگی-پوست-سر-و-تقویت-پیاز-مو-با-عصاره-آرنیکا"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 647650,
-        "original_price": 1425600,
-        "discount_percent": 55,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
     },
     {
         "title": "",
@@ -112,17 +112,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 740000,
-        "original_price": 1430000,
-        "discount_percent": 48,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 380000,
         "original_price": 990000,
         "discount_percent": 62,
@@ -130,5 +119,16 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 740000,
+        "original_price": 1430000,
+        "discount_percent": 48,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
     }
 ]
