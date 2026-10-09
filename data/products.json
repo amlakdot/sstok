@@ -24,6 +24,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 2765200,
+        "original_price": 4391700,
+        "discount_percent": 37,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 499000,
         "original_price": 825000,
         "discount_percent": 40,
@@ -35,20 +46,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 2765200,
-        "original_price": 4391800,
-        "discount_percent": 37,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 346120,
+        "price": 370000,
         "original_price": 535100,
-        "discount_percent": 35,
+        "discount_percent": 31,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,7 +79,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 347000,
+        "price": 347500,
         "original_price": 792000,
         "discount_percent": 56,
         "is_fake_discount": false,
@@ -90,9 +90,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 4050000,
-        "original_price": 4050000,
-        "discount_percent": 0,
+        "price": 4005400,
+        "original_price": 5717700,
+        "discount_percent": 30,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -123,12 +123,12 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 695000,
-        "original_price": 1430000,
-        "discount_percent": 51,
+        "price": 278520,
+        "original_price": 422000,
+        "discount_percent": 34,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-13862382/اسپری-آبرسان-صورت-و-بدن-ویتالیر-مدل-hydravit-مناسب-برای-انواع-پوست-حجم-75-میلی-لیتر"
     }
 ]
