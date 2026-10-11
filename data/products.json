@@ -24,6 +24,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 500000,
+        "original_price": 825000,
+        "discount_percent": 39,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 2605100,
         "original_price": 4545200,
         "discount_percent": 43,
@@ -35,9 +46,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 651150,
+        "price": 628980,
         "original_price": 1425600,
-        "discount_percent": 54,
+        "discount_percent": 56,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -46,20 +57,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 510000,
-        "original_price": 825000,
-        "discount_percent": 38,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 340670,
+        "price": 365000,
         "original_price": 535100,
-        "discount_percent": 36,
+        "discount_percent": 32,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -68,9 +68,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 300500,
+        "price": 302800,
         "original_price": 349000,
-        "discount_percent": 14,
+        "discount_percent": 13,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,9 +79,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 410000,
+        "price": 324720,
         "original_price": 792000,
-        "discount_percent": 48,
+        "discount_percent": 59,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -90,7 +90,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 4005400,
+        "price": 4002500,
         "original_price": 5717700,
         "discount_percent": 30,
         "is_fake_discount": false,
@@ -112,6 +112,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 421000,
+        "original_price": 421000,
+        "discount_percent": 0,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-13862382/اسپری-آبرسان-صورت-و-بدن-ویتالیر-مدل-hydravit-مناسب-برای-انواع-پوست-حجم-75-میلی-لیتر"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 360000,
         "original_price": 990000,
         "discount_percent": 64,
@@ -119,16 +130,5 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 288400,
-        "original_price": 421000,
-        "discount_percent": 31,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-13862382/اسپری-آبرسان-صورت-و-بدن-ویتالیر-مدل-hydravit-مناسب-برای-انواع-پوست-حجم-75-میلی-لیتر"
     }
 ]
