@@ -57,9 +57,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 365000,
+        "price": 340000,
         "original_price": 535100,
-        "discount_percent": 32,
+        "discount_percent": 36,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -68,9 +68,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 250000,
-        "original_price": 250000,
-        "discount_percent": 0,
+        "price": 302800,
+        "original_price": 349000,
+        "discount_percent": 13,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -79,7 +79,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 322000,
+        "price": 323000,
         "original_price": 792000,
         "discount_percent": 59,
         "is_fake_discount": false,
