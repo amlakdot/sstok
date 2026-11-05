@@ -2,9 +2,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 174000,
-        "original_price": 572000,
-        "discount_percent": 70,
+        "price": 180000,
+        "original_price": 527000,
+        "discount_percent": 66,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -13,13 +13,13 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 290000,
-        "original_price": 1108800,
-        "discount_percent": 74,
+        "price": 179000,
+        "original_price": 1069200,
+        "discount_percent": 83,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
     },
     {
         "title": "",
@@ -31,28 +31,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-8423381/کپسول-ژلاتینی-امگا-3-یوروویتال-بسته-30-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 3099000,
-        "original_price": 4884400,
-        "discount_percent": 37,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 798290,
-        "original_price": 1425000,
-        "discount_percent": 44,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
     },
     {
         "title": "",
@@ -79,13 +57,24 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 348500,
-        "original_price": 792000,
-        "discount_percent": 56,
+        "price": 800200,
+        "original_price": 1425000,
+        "discount_percent": 44,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-13364158/کپسول-ویتامین-ای-400-واحد-یوروویتال-بسته-40-عددی"
+        "url": "https://www.digikala.com/product/dkp-5331752/سافت-ژل-امگا-۳-۱۰۰۰-میلی-گرمی-نکستایل-ویتامینز-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 3099000,
+        "original_price": 4884400,
+        "discount_percent": 37,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-11801878/هدفون-بلوتوثی-انکر-مدل-soundcore-r50i-a3949-بدون-قابلیت-نویز-کنسلینگ-درگاه-شارژ-usb-type-c-دارای-فناوری-ai-enhanced-calls-برای-کاهش-نویز-و-بهبود-مکالمات-مقاوم-در-برابر-رطوبت-و-عرق"
     },
     {
         "title": "",
@@ -97,17 +86,6 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-16200986/هدفون-بلوتوثی-انکر-مدل-r50i-nc-با-حذف-نویز-فعال-anc-درگاه-شارژ-usb-type-c-باتری-قابل-شارژ-تا-45-ساعت-مقاوم-در-برابر-پاشش-آب-و-گرد-و-غبار"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 179000,
-        "original_price": 1069200,
-        "discount_percent": 83,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-8936377/قرص-زینک-پلاس-یوروویتال-15-میلی-گرم-بسته-60-عددی"
     },
     {
         "title": "",
@@ -130,5 +108,27 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 290000,
+        "original_price": 1108800,
+        "discount_percent": 74,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 690000,
+        "original_price": 1430000,
+        "discount_percent": 52,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-16486646/قرص-منیزیم-بیس-گلایسینات-یوروویتال-بسته-60-عددی"
     }
 ]
