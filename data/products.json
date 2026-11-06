@@ -24,7 +24,7 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 355000,
+        "price": 350350,
         "original_price": 863000,
         "discount_percent": 59,
         "is_fake_discount": false,
@@ -90,28 +90,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 534000,
-        "original_price": 990000,
-        "discount_percent": 46,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
-        "price": 122000,
-        "original_price": 1108800,
-        "discount_percent": 89,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 261640,
         "original_price": 422000,
         "discount_percent": 38,
@@ -123,6 +101,17 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
+        "price": 534000,
+        "original_price": 990000,
+        "discount_percent": 46,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
         "price": 2985000,
         "original_price": 3600000,
         "discount_percent": 17,
@@ -130,5 +119,16 @@
         "rating_score": 0,
         "store": "دیجی‌کالا",
         "url": "https://www.digikala.com/product/dkp-18833491/پودر-کراتین-مونو-هیدرات-میکرونایز-دوبیس-300-گرم"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 122000,
+        "original_price": 1108800,
+        "discount_percent": 89,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
     }
 ]
