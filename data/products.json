@@ -13,9 +13,9 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 487000,
+        "price": 457000,
         "original_price": 990000,
-        "discount_percent": 51,
+        "discount_percent": 54,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
@@ -101,17 +101,6 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 534000,
-        "original_price": 990000,
-        "discount_percent": 46,
-        "is_fake_discount": false,
-        "rating_score": 0,
-        "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
-    },
-    {
-        "title": "",
-        "brand": "دیجی‌کالا",
         "price": 2999000,
         "original_price": 3400000,
         "discount_percent": 12,
@@ -123,12 +112,23 @@
     {
         "title": "",
         "brand": "دیجی‌کالا",
-        "price": 122000,
-        "original_price": 1108800,
-        "discount_percent": 89,
+        "price": 534000,
+        "original_price": 990000,
+        "discount_percent": 46,
         "is_fake_discount": false,
         "rating_score": 0,
         "store": "دیجی‌کالا",
-        "url": "https://www.digikala.com/product/dkp-15338501/قرص-زینک-پلاس-پابا-یوروویتال-بسته-60-عددی"
+        "url": "https://www.digikala.com/product/dkp-9179705/قرص-کلاژن-یوروویتال-1000-میلیگرم-بسته-30-عددی-تقویت-سلامت-پوست-و-مو-با-ویتامین-c-و-آهن-افزایش-استحکام-و-کاهش-چین-و-چروک-پوست-آنتیاکسیدان-قوی-و-بهبود-درخشندگی-پوست-ساخت-آلمان"
+    },
+    {
+        "title": "",
+        "brand": "دیجی‌کالا",
+        "price": 5987600,
+        "original_price": 8581400,
+        "discount_percent": 30,
+        "is_fake_discount": false,
+        "rating_score": 0,
+        "store": "دیجی‌کالا",
+        "url": "https://www.digikala.com/product/dkp-21061064/هدفون-بلوتوثی-انکر-مدل-r60i-nc-با-نویز-کنسلینگ-فعال-adaptive-anc-درایور-11-میلیمتری-پشتیبانی-از-ldac-و-hi-res-audio-spatial-audio-مقاوم-در-برابر-آب-و-عمر-باتری-50-ساعت"
     }
 ]
